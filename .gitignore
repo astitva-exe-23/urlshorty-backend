@@ -1,0 +1,17 @@
+.vercel
+# Ignore environment variables file (e.g., .env)
+.env
+
+# Ignore Node.js dependencies folder
+node_modules/
+
+# Optional: Ignore log files
+*.log
+
+# Optional: Ignore editor/IDE specific files (adjust as needed)
+.vscode/
+.idea/
+
+# Optional: Ignore OS generated files
+.DS_Store
+Thumbs.db
